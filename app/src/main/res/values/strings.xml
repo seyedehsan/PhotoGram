@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile Application Project</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtEmail">Email Address</string>
+    <string name="btnLogin">Login</string>
+    <string name="swhSavePassword"><![CDATA[Remember me]]></string>
+    <string name="txtRegister">Create a new Account</string>
+    <string name="radioMale">Male</string>
+    <string name="radioFemale">Female</string>
+    <string name="btnRegister">Register</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_description">Post Description</string>
+    <string name="btnPost">Post Image</string>
+</resources>
